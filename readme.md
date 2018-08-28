@@ -3,7 +3,7 @@
 - Para poder realizar este actividad debes haber realizado los cursos previos junto con los videos online correspondientes a la experiencia 11.
 
 ## Ejercicio 1: Primer Proyecto.
-
+  
 - Crear un proyecto llamado ***first_app***.
 - Inicializar *Git*.
 - Añadir los cambios y hacer el <u>*primer commit*</u>.
